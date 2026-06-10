@@ -1,0 +1,55 @@
+venv/
+.venv/
+env/
+/.venv
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+/.env
+.env
+.env.*
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+*.iml
+/.pytest_cache
+/.coverage
+coverage.xml
+*.egg-info/
+pip-wheel-metadata/
+htmlcov/
+/.cache/
+/.sass-cache/
+thumbs.db
+*.pyo
+*.pyd
+/.ropeproject
+/.python-version
+__pycache__/
+/.env.local
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Streamlit
+.streamlit/
+
+# PlatformIO
+.pio/
+
+# VSCode
+.vscode/
